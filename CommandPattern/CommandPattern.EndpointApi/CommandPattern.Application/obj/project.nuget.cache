@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSH/Ru4mSrkfw2hBb7qeiCZlP6IkgF5ZzcWSmU+LTnpERPR8m/YGxw1YxetHa2+ZMG7ZkVQ101MsLWboA4UOcA==",
+  "success": true,
+  "projectFilePath": "D:\\Backend\\DesignPatternSample\\CommandPattern\\CommandPattern.EndpointApi\\CommandPattern.Application\\CommandPattern.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

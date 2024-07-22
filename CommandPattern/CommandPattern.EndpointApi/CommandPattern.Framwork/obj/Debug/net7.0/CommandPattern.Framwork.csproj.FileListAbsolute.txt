@@ -1,0 +1,12 @@
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\bin\Debug\net7.0\CommandPattern.Framwork.deps.json
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\bin\Debug\net7.0\CommandPattern.Framwork.dll
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\bin\Debug\net7.0\CommandPattern.Framwork.pdb
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.AssemblyInfoInputs.cache
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.AssemblyInfo.cs
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.csproj.CoreCompileInputs.cache
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.dll
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\refint\CommandPattern.Framwork.dll
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.pdb
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\ref\CommandPattern.Framwork.dll
+D:\Backend\DesignPatternSample\CommandPattern\CommandPattern.EndpointApi\CommandPattern.Framwork\obj\Debug\net7.0\CommandPattern.Framwork.csproj.AssemblyReference.cache

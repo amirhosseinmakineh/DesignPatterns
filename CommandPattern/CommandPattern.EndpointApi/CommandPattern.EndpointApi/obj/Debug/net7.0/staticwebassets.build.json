@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L/o1UKWWju366Zeo4nGhztyB2UL+E6D7AVe2X0gF/7w=",
+  "Source": "CommandPattern.EndpointApi",
+  "BasePath": "_content/CommandPattern.EndpointApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
